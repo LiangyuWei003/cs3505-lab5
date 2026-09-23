@@ -5,7 +5,7 @@ int main() {
 
     int i = 5;
     int y = 2;
-    int j = 4;
+    int j = 3;
 
     return 0;
 }
